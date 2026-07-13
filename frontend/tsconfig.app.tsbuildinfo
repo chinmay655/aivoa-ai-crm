@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/hooks.ts","./src/main.tsx","./src/store.ts","./src/types.ts","./src/vite-env.d.ts","./src/components/AiAssistant.tsx","./src/components/HcpSearch.tsx","./src/components/InteractionForm.tsx"],"version":"5.7.3"}
