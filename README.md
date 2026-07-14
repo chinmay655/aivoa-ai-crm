@@ -67,7 +67,6 @@ PostgreSQL            LangGraph Agent
                             |
                             v
                      Groq LLM
-```
 
 The structured form and AI assistant use the same backend services and PostgreSQL database.
 
@@ -92,7 +91,6 @@ Log an in-person interaction with HCP ID 1.
 We discussed CardioPlus benefits.
 Dr. Mitchell requested additional safety data.
 The sentiment was positive.
-```
 
 ### `edit_interaction`
 
@@ -100,7 +98,6 @@ Updates an existing interaction.
 
 ```text
 Edit interaction ID 1 and change the sentiment to neutral.
-```
 
 ### `add_product_sample`
 
@@ -108,7 +105,6 @@ Records product samples associated with an interaction.
 
 ```text
 Add 2 samples of CardioPlus 10 mg to interaction ID 1.
-```
 
 ### `schedule_follow_up`
 
